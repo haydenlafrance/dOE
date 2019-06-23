@@ -9,7 +9,7 @@ package adt;
  *
  * @author lafra
  */
-public class adt {
+public class ADT {
     
     
     public static void main(String[] args){
